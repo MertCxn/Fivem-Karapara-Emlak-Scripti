@@ -10,4 +10,5 @@ Envanter Scriptinize ekleyin
 			image = "black_money.png",
 		}
 	},
-resmide attım 
+resmide envantere ekleyin
+
